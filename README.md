@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/smritikaur"><img src="https://api.daily.dev/devcards/v2/YGcfbvSHxyIcqLnnD0KvN.png?type=default&r=a27" width="356" alt="Smriti Kaur's Dev Card"/></a>
+
 <!--
 **smritikaur/smritikaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
